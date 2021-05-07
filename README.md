@@ -8,3 +8,4 @@
 - And run on your local machine (http://localhost:3000).
 
 by eddie@5xcampus.com
+# rails_shopping_mall_v3
